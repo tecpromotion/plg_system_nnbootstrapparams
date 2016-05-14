@@ -20,8 +20,8 @@
         <fields name="params">
             <fieldset name="basic">
                 <field name="exludeposition" type="text"
-                       description="Which module position's to exlude from your changes (top,left,sidebar)"
-                       label="Exlude Module Position's"
+                       description="Which module position's to exclude from your changes (top,left,sidebar)"
+                       label="Exclude Module Position's"
                        default="sidebar-a,sidebar-b,sidebar"
                         >
                 </field>
